@@ -10,7 +10,7 @@ Then, run the executable code as: "NighttimeDehazeOSFD.exe name.bmp", where "nam
 
 ## Folder Structure
     OSFD
-        -NighttimeDehazeMRP.exe
+        -NighttimeDehazeOSFD.exe
             The executable code
         -*.dll
             The dependencies
