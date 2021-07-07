@@ -29,17 +29,13 @@ Please cite our paper in your publications if it helps your research:
     }
     
 ## Related Work
-[1]. Nighttime haze removal based on a new imaging model, ICIP 2014. [NighttimeDehaze: Project, ](https://chaimi2013.github.io/Research/NighttimeDehazing_ICIP2014/index.html)
-    [NighttimeDehaze: github](https://github.com/chaimi2013/NighttimeDehaze)
+[1]. Nighttime haze removal based on a new imaging model, ICIP 2014. [NighttimeDehaze: github](https://github.com/chaimi2013/NighttimeDehaze)
 
-[2]. Fast Haze Removal for Nighttime Image Using Maximum Reflectance Prior, CVPR 2017. [MRP_CVPR: Project,](https://chaimi2013.github.io/Research/NighttimeDehazing/index.html)
-    [MRP_CVPR: github](https://github.com/chaimi2013/MRP)
+[2]. Fast Haze Removal for Nighttime Image Using Maximum Reflectance Prior, CVPR 2017. [MRP_CVPR: github](https://github.com/chaimi2013/MRP)
 
-[3]. Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images, ACM MM 2018. [FPC-Net: Project, ](https://chaimi2013.github.io/Research/FPC/index.html)
-    [FPC-Net: github](https://github.com/chaimi2013/FPCNet)
+[3]. Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images, ACM MM 2018. [FPC-Net: github](https://github.com/chaimi2013/FPCNet)
     
-[4]. FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network, T-IP, 2019. [FAMED-Net: Project, ](https://chaimi2013.github.io/Research/FAMED-Net/)
-    [FAMED-Net: github](https://github.com/chaimi2013/FAMED-Net)
+[4]. FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network, T-IP, 2019. [FAMED-Net: github](https://github.com/chaimi2013/FAMED-Net)
     
 ## Contact
 [Email](zj.winner@163.com)
