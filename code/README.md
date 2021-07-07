@@ -1,4 +1,4 @@
-# MRP
+# OSFD
 [Nighttime Dehazing with a Synthetic Benchmark](<a href="https://arxiv.org/abs/2008.03864">Arxiv</a>), ACM MM 2020.
 
 The code has been tested on Win7/10 with Opencv 2.7.
