@@ -8,7 +8,7 @@ etc -->
 >
 ><h3><strong><i>🚀 News</i></strong></h3>
 
-> [2022-04-16]: Update the NHR (Cityscapes) dataset at [OneDrive](https://1drv.ms/u/s!AimBgYV7JjTle3TRc6fV7B_Cp1Y?e=qdaIUY).
+> [2022-04-16]: Update the NHC (Cityscapes) dataset at [OneDrive](https://1drv.ms/u/s!AimBgYV7JjTle3TRc6fV7B_Cp1Y?e=qdaIUY).
 > 
 > [2021-07-07]: Update the OSFD code at 3R/code/OSFD/.
 > 
