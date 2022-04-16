@@ -9,7 +9,9 @@ etc -->
 ><h3><strong><i>🚀 News</i></strong></h3>
 
 > [2022-04-16]: Update the NHR (Cityscapes) dataset at [OneDrive](https://1drv.ms/u/s!AimBgYV7JjTle3TRc6fV7B_Cp1Y?e=qdaIUY).
+> 
 > [2021-07-07]: Update the OSFD code at 3R/code/OSFD/.
+> 
 > [2020-10-27]: The datasets can be downloaded from [GoogleDrive](https://drive.google.com/drive/folders/1Q7Ep19eX3yBMwF4kfKI2TGUfeG-gXHKR?usp=sharing) or [BaiduDisk](https://pan.baidu.com/s/1KzAfpUysUTqmuXyCJU81iw) (code: is11).
 
 <p align="justify">This repository contains the code, datasets, models, and test results in the paper <a href="https://doi.org/10.1145/3394171.3413763">Nighttime Dehazing with a Synthetic Benchmark</a> (<a href="https://arxiv.org/abs/2008.03864">Arxiv</a>). Increasing the visibility of nighttime hazy images is challenging because of uneven illumination from active artificial light sources and haze absorbing/scattering. The absence of large-scale benchmark datasets hampers progress in this area. To address this issue, we propose a novel synthetic method called <strong>3R</strong> to simulate nighttime hazy images from daytime clear images, which first reconstructs the scene geometry, then simulates the light rays and object reflectance, and finally renders the haze effects. Based on it, we generate realistic nighttime hazy images by sampling real-world light colors from a prior empirical distribution. Experiments on the synthetic benchmark show that the degrading factors jointly reduce the image quality. To address this issue, we propose an optimal-scale maximum reflectance prior (<strong>OS-MRP</strong>) to disentangle the color correction from haze removal and address them sequentially. Besides, we also devise a simple but effective learning-based baseline (<strong>ND-Net</strong>) which has an encoder-decoder structure based on the MobileNet-v2 backbone. Experiment results demonstrate their superiority over state-of-the-art methods in terms of both image quality and runtime
