@@ -8,7 +8,7 @@ etc -->
 >
 ><h3><strong><i>🚀 News</i></strong></h3>
 
-> [2022-05-21]: Update the json files of train and val split of NHR GoogleDrive and BaiduDisk (in the fold "/MM2020_3R_datasets/NHR/").
+> [2022-05-21]: Update the json files of train and val split of the NHR dataset at GoogleDrive and BaiduDisk ("/MM2020_3R_datasets/NHR/").
 > 
 > [2022-04-16]: Update the NHC (Cityscapes) dataset at [OneDrive](https://1drv.ms/u/s!AimBgYV7JjTle3TRc6fV7B_Cp1Y?e=qdaIUY).
 > 
